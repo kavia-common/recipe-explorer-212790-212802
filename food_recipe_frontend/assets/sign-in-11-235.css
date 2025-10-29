@@ -1,0 +1,6 @@
+/* Additional screen-specific styles if needed */
+#screen-11-235 img { image-rendering: -webkit-optimize-contrast; }
+#screen-11-235 .figma-abs { z-index: 1; }
+#el-13-71 .figma-abs { z-index: 2; }
+#el-54-668 { cursor: pointer; transition: filter 0.15s ease; }
+#el-54-668:active { filter: brightness(0.95); }
